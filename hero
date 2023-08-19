@@ -1,0 +1,3 @@
+getgenv().autofarm = true 
+getgenv().killaura = true 
+getgenv().autoquest = true 
